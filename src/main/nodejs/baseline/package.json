@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "module": "es2022",
+  "devDependencies": {
+    "@types/node": "^20.10.6"
+  }
+}
