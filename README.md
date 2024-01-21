@@ -41,7 +41,7 @@ Submit your implementation and become part of the leaderboard!
 | #   | Result (m:s.ms) | Implementation                                                                        | Submitter                                        | Notes                                                                              |
 | --- | --------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------- |
 | 1.  | 00:23.000       | [link](https://github.com/1brc/nodejs/blob/main/src/main/nodejs/Edgar-P-yan/index.js) | [Edgar Pogosyan](https://github.com/Edgar-P-yan) | Multi-threaded, optimized parsing, input-specific `float` to `int` parser, no mmap |
-|     | 00:13.449       | [link](https://github.com/1brc/nodejs/blob/main/src/main/nodejs/baseline/index.js)    | [Edgar Pogosyan](https://github.com/Edgar-P-yan) | The baseline, single threaded, naive implementation                                |
+|     | 06:16.000       | [link](https://github.com/1brc/nodejs/blob/main/src/main/nodejs/baseline/index.js)    | [Edgar Pogosyan](https://github.com/Edgar-P-yan) | The baseline, single threaded, naive implementation                                |
 
 See [below](#entering-the-challenge) for instructions how to enter the challenge with your own implementation.
 
