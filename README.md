@@ -146,7 +146,7 @@ Rumor has it that the winner may receive a unique 1️⃣🐝🏎️ t-shirt, to
 
 ## FAQ
 
-<!-- !-- _Q: Can I use Kotlin or other JVM languages other than Java?_\
+<!-- _Q: Can I use Kotlin or other JVM languages other than Java?_\
 A: No, this challenge is focussed on Java only. Feel free to inofficially share implementations significantly outperforming any listed results, though.
 
 _Q: Can I use non-JVM languages and/or tools?_\
@@ -156,7 +156,7 @@ _Q: I've got an implementation—but it's not in Java. Can I share it somewhere?
 A: Whilst non-Java solutions cannot be formally submitted to the challenge, you are welcome to share them over in the [Show and tell](https://github.com/gunnarmorling/1brc/discussions/categories/show-and-tell) GitHub discussion area.
 
 _Q: Can I use JNI?_\
-A: Submissions must be completely implemented in Java, i.e. you cannot write JNI glue code in C/C++. You could use AOT compilation of Java code via GraalVM though, either by AOT-compiling the entire application, or by creating a native library (see [here](https://www.graalvm.org/22.0/reference-manual/native-image/ImplementingNativeMethodsInJavaWithSVM/). --> -->
+A: Submissions must be completely implemented in Java, i.e. you cannot write JNI glue code in C/C++. You could use AOT compilation of Java code via GraalVM though, either by AOT-compiling the entire application, or by creating a native library (see [here](https://www.graalvm.org/22.0/reference-manual/native-image/ImplementingNativeMethodsInJavaWithSVM/). -->
 
 _Q: What is the encoding of the measurements.txt file?_\
 A: The file is encoded with UTF-8.
